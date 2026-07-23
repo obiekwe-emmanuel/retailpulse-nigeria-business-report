@@ -93,8 +93,6 @@ The interactive Excel dashboard that accompanies this report is available here:
 
 [RetailPulse NG Sales Analysis Dashboard](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-analysis)
 
-> Replace YOUR-USERNAME with your actual GitHub username before publishing.
-
 ---
 
 ## File Contents
@@ -110,7 +108,4 @@ The interactive Excel dashboard that accompanies this report is available here:
 **Obiekwe Emmanuel C.**
 Business Analyst
 
-
 ---
-
-> This report was produced as part of the RetailPulse Nigeria end-to-end data analysis project. All data is simulated for portfolio and practice purposes.
