@@ -99,7 +99,7 @@ The interactive Excel dashboard that accompanies this report is available here:
 
 | File | Description |
 |---|---|
-| [RetailPulse NG Business Report (Download)](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-business-report/raw/main/RetailPulseNG._Report.docx) | Full business report in Word format |
+| [RetailPulse NG Business Report (Download)](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-business-report/blob/main/RetailPulseNG.%20Report.docx) | Full business report in Word format |
 
 ---
 
