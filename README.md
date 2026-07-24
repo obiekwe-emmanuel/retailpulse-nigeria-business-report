@@ -99,7 +99,7 @@ The interactive Excel dashboard that accompanies this report is available here:
 
 | File | Description |
 |---|---|
-| RetailPulse_NG_Sales_Operations_Report_2022_2024.docx | Full business report in Word format |
+| [RetailPulse NG Business Report (Download)](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-business-report/raw/main/RetailPulseNG._Report.docx) | Full business report in Word format |
 
 ---
 
